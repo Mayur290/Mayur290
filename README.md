@@ -49,6 +49,31 @@
 &nbsp; <a href="https://www.instagram.com/mayurbnsl98/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/mayurbansal98/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:mayurbansal98@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+  
+  
+  
+   <a href="https://auth.geeksforgeeks.org/user/mayurbnsl/profile">
+  <img align="left" alt="Mayur's GeeksforGeek" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/geeksforgeeks.svg" />
+</a>
+<a href="https://www.linkedin.com/in/mayurbansal98/">
+  <img align="left" alt="Mayur's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+  <a href="https://twitter.com/MayurBa49170945">
+  <img align="left" alt="Mayur's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.instagram.com/mayurbnsl98/">
+  <img align="left" alt="Mayur's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" />
+</a>
+<a href="https://github.com/Mayur290">
+  <img align="left" alt="Mayur's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="mailto:mayurbansal98@gmail.com">
+  <img align="left" alt="Mayur's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
+</a>
+<a href="https://www.hackerrank.com/mayurbansal98">
+  <img align="left" alt="Mayur's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
+
 </p>
 
 ⭐️ From [Mayur Bansal](https://github.com/Mayur290)
