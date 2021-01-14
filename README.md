@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Mayur. <img src="https://github.com/Mayur290/Mayur290/blob/master/Hi.gif" width="25"></h2>
+<h2> Hey there! I'm Mayur. <img src="https://github.com/Mayur290/Mayur290/blob/main/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://github.com/Mayur290/Mayur290/blob/main/gif3" width="400" height="400"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
