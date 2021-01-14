@@ -24,7 +24,7 @@
 
 </br>
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayur290&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayur290&include_all_commits=true&count_private=true&theme=buefy&show_icons=true" alt="Mayur290's Github Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur290&theme=buefy&layout=compact" />
 </a>
 
