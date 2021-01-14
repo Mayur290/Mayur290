@@ -54,10 +54,6 @@
 </a>
  &nbsp;  <a href="https://twitter.com/MayurBa49170945" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="Mayur's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-&nbsp; <a href="https://www.instagram.com/mayurbnsl98/" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="Mayur's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" />
-</a>
 &nbsp; <a href="https://github.com/Mayur290" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="Mayur's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
