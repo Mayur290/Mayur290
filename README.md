@@ -24,7 +24,7 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur290&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Mayur290/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur290&layout=compact&text_color=D3D3D3&bg_color=151515)](https://github.com/Mayur290/github-readme-stats)
 
 
 <h3> 🤝🏻 Connect with Me </h3>
