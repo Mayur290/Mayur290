@@ -23,6 +23,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![node](https://img.shields.io/badge/-Node-333333?style=flat&logo=react)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - ⚙️ &nbsp;
@@ -34,7 +35,7 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/Mayur290">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayur290&include_all_commits=true&count_private=true&theme=buefy&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Mayur290's Github Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur290&theme=buefy&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
 </a>
